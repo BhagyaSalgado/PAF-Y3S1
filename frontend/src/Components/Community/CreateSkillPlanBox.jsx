@@ -2,7 +2,6 @@ import React from "react";
 import { useSnapshot } from "valtio";
 import state from "../../Utils/Store";
 
-// import "../Styles/CreateSkillPlanBox.css"
 const CreateSkillPlanBox = () => {
   const snap = useSnapshot(state);
 
@@ -27,5 +26,5 @@ const CreateSkillPlanBox = () => {
     </div>
   );
 };
-// const CreateSkillPlanBox = () => {};
+
 export default CreateSkillPlanBox;
