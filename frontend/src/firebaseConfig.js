@@ -5,7 +5,7 @@ import { getStorage } from "firebase/storage";
 
 // New Firebase Configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDp_3snUH6scy4e0bzJHrgEhPFp_djL47M",
+  apiKey: "",
   authDomain: "parabiz-store.firebaseapp.com",
   projectId: "parabiz-store",
   storageBucket: "parabiz-store.appspot.com",
